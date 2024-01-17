@@ -1000,7 +1000,7 @@ async function addWidgets() {
       expandTooltip: "معرض خريطة الأساس",
       collapseTooltip: "اغلاق",
     });
-    view.ui.add([Expand22], { position: "manual", index: 6 });
+    view.ui.add([Expand22], { position: "bottom-right", index: 6 });
 
     var scalebar = new ScaleBar({
       view: view,
