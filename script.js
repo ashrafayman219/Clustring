@@ -841,7 +841,7 @@ async function initializeMap() {
       );
 
       intl.setLocale("ar");
-      esriConfig.apiKey = "AAPK756f006de03e44d28710cb446c8dedb4rkQyhmzX6upFiYPzQT0HNQNMJ5qPyO1TnPDSPXT4EAM_DlQSj20ShRD7vyKa7a1H";
+      esriConfig.apiKey = "AAPK1d2d85bfebac4fe4a7f684a32f1d9d0clLf_gEmnKk6-YVFwOy-fcQdrFFpvyQmiPbf-5BqA9oQXPsXDV9J4n8Y0dFS6g4PR";
       
       // Typical usage
       KMLL = new KMLLayer({
